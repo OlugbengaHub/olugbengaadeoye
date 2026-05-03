@@ -117,12 +117,12 @@ Consolidated data from 3 logistics APIs into a single Power BI dashboard with au
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OlugbengaHub&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=OlugbengaHub&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OlugbengaHub&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlugbengaHub&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlugbengaHub&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800>
 </p>
 
 ---
