@@ -4,7 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E75B6&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+BI+Developer;Power+BI+%7C+DAX+%7C+SQL+%7C+Python;Turning+data+into+decisions)](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E75B6&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+BI+Developer;Power+BI+%7C+DAX+%7C+SQL+%7C+Python;Turning+data+into+decisions)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olugbenga-adeoye-72713b253/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeoyeolugbenga@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olugbenga-adeoye-72713b253/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeoyeolugbenga@gmail.com)
 
 ---
 
@@ -15,7 +16,7 @@
 - 📊 **5+ years** delivering enterprise BI solutions across banking, healthcare, and consulting
 - 🏆 Built dashboards serving **500+ end users** and ETL pipelines improving data accuracy by **35%**
 - 🌍 Based in **London, UK** — available for new opportunities
-- 📫 Reach me at **<adeoyeolugbenga@gmail.com>**
+- 📫 Reach me at **adeoyeolugbenga@gmail.com**
 
 ---
 
@@ -23,19 +24,27 @@
 
 **BI & Visualisation**
 
-[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) [![DAX](https://img.shields.io/badge/DAX-2E75B6?style=for-the-badge&logo=microsoft&logoColor=white)](https://img.shields.io/badge/DAX-2E75B6?style=for-the-badge&logo=microsoft&logoColor=white) [![Amazon QuickSight](https://img.shields.io/badge/Amazon%20QuickSight-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://img.shields.io/badge/Amazon%20QuickSight-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
+[![DAX](https://img.shields.io/badge/DAX-2E75B6?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/dax/)
+[![Amazon QuickSight](https://img.shields.io/badge/Amazon%20QuickSight-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/quicksight/)
 
 **Data & Querying**
 
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) [![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white) [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)](https://www.snowflake.com)
+[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 
 **Cloud & ETL**
 
-[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) [![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
+[![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/en-us/products/data-factory)
 
 **Tools**
 
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) [![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)](https://azure.microsoft.com/en-us/products/devops)
 
 ---
 
@@ -91,16 +100,20 @@ Consolidated data from 3 logistics APIs into a single Power BI dashboard with au
 
 ### 🏅 Certifications
 
-[![](https://img.shields.io/badge/PL--300%20Power%20BI%20Data%20Analyst%20Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://img.shields.io/badge/PL--300%20Power%20BI%20Data%20Analyst%20Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) [![](https://img.shields.io/badge/DP--203%20Azure%20Data%20Engineer%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://img.shields.io/badge/DP--203%20Azure%20Data%20Engineer%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) [![](https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) [![](https://img.shields.io/badge/AWS%20Developer%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://img.shields.io/badge/AWS%20Developer%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+[![PL-300 Power BI Data Analyst Associate](https://img.shields.io/badge/PL--300%20Power%20BI%20Data%20Analyst%20Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/)
+[![DP-203 Azure Data Engineer Associate](https://img.shields.io/badge/DP--203%20Azure%20Data%20Engineer%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-engineer/)
+[![AWS Solutions Architect Associate](https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+[![AWS Developer Associate](https://img.shields.io/badge/AWS%20Developer%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/certified-developer-associate/)
 
 ---
 
 ### 📈 GitHub Stats
 
-<!-- FIX 1: GitHub Streak — was [![GitHub Streak]()](<>) with empty image URL and empty href -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=OlugbengaHub&theme=default&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=OlugbengaHub&theme=default)](https://git.io/streak-stats)
 
-<!-- FIX 2: GitHub Stats card — was [![]()](<>) with both image URL and href empty -->
-[![Olugbenga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OlugbengaHub&show_icons=true&theme=default&hide_border=false)](https://github.com/OlugbengaHub) [![Profile Views](https://komarev.com/ghpvc/?username=OlugbengaHub&label=Profile%20Views&color=2E75B6&style=flat)](https://github.com/OlugbengaHub)
+[![Olugbenga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OlugbengaHub&show_icons=true&theme=default)](https://github.com/OlugbengaHub)
+[![Profile Views](https://komarev.com/ghpvc/?username=OlugbengaHub&label=Profile%20Views&color=2E75B6&style=flat)](https://github.com/OlugbengaHub)
+
+---
 
 *"Turning raw data into decisions that matter."*
